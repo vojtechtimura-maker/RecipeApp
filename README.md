@@ -1,0 +1,1 @@
+Recipe App je jednoduchá Python aplikácia, ktorá sťahuje náhodný recept.
