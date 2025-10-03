@@ -1,0 +1,5 @@
+Nazov: test
+Postup: Uvar vodu a pridaj cestoviny.
+
+Nazov: palacinky
+Postup: Zmiesaj muku,mlieko a vajcia, opec na panvici.
