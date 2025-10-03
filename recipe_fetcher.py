@@ -68,7 +68,7 @@ class RecipeFetcher:
         return recipes.get(recipe_name, "Recept sa nenasiel.")
 
 
-print(RecipeFetcher("recipes.txt").fetch_recipe("test"))
+#print(RecipeFetcher("recipes.txt").fetch_recipe("test"))
 #Ak nebol vytvoreny subor recipes.txt vystup je zatial len "Subor sa nenasiel"
 
 
