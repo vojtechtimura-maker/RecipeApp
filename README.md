@@ -1,16 +1,16 @@
 Recipe App je jednoduchá Python aplikácia, ktorá sťahuje náhodný recept.
 Moznost vyhladat aj z externeho API (TheMealDB)
 
-###Instalacia
+# Instalacia
 #  -naklonuj repozitar:
 #  git clone https://github.com/vojtechtimura-maker/RecipeApp
-#  vytvor a aktivuj virtualne prostredie:
+#  -vytvor a aktivuj virtualne prostredie:
 #  python -m venv .venv
 #  source .venv/bin/activate      #Linux
-#        .venv\Scripts\activate  #Windows
+#         .venv\Scripts\activate  #Windows
 #  -nainstaluj requirements:
 #  pip install -r requirements.txt
-#  Spustenie:
+#  -spustenie:
 #  python "Recipe App.py"
 #  -zvol volbu: 1.pouzije lokalny subor
 #               2.pouzije externe API
