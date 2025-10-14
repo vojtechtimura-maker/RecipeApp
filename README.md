@@ -13,8 +13,9 @@ Moznost vyhladat aj z externeho API (TheMealDB)
 #  pip install -r requirements.txt
 #  -spustenie:
 #  python "Recipe App.py"
-#  -zvol volbu: 1.pouzije lokalny subor
-#               2.pouzije externe API
+#  -zvol volbu:
+# 1.pouzije lokalny subor
+# 2.pouzije externe API
 ##Testovanie
 #  pytest tests/ -v
 #  -ocakavany vysledok:
