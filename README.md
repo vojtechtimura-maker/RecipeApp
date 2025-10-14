@@ -6,8 +6,9 @@ Moznost vyhladat aj z externeho API (TheMealDB)
 #  git clone https://github.com/vojtechtimura-maker/RecipeApp
 #  -vytvor a aktivuj virtualne prostredie:
 #  python -m venv .venv
-#  source .venv/bin/activate      #Linux
-#         .venv\Scripts\activate  #Windows
+#  -source
+# .venv/bin/activate      #Linux
+# .venv\Scripts\activate  #Windows
 #  -nainstaluj requirements:
 #  pip install -r requirements.txt
 #  -spustenie:
