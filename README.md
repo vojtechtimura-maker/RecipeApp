@@ -16,7 +16,7 @@ Moznost vyhladat aj z externeho API (TheMealDB)
 #  -zvol volbu:
 # 1.pouzije lokalny subor
 # 2.pouzije externe API
-##Testovanie
+# Testovanie
 #  pytest tests/ -v
 #  -ocakavany vysledok:
 #  -collected 6 items
