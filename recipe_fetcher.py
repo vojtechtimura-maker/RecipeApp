@@ -1,15 +1,3 @@
-# class RecipeFetcher:
-#     def __init__(self):
-#         """neskor pridam dalsie udaje"""
-#         pass
-#
-#     def fetch_recipe(self):
-#         """
-#         Zaklad receptu.
-#
-#         """
-#         return
-# print(RecipeFetcher().fetch_recipe())# vypise None
 
 class RecipeFetcher:
     def __init__(self, filename = None):

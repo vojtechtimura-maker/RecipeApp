@@ -20,8 +20,8 @@ def test_search_non_existing_recipe(api_client):
     assert "Recept sa nenasiel." in result
     assert "Odozva:" in result
 
-def test_ivalid_url_has_response_time():
-    client = RecipeAPIClient(base_url="http://invalid-url.com/")
+def test_invalid_url_has_response_time():
+    client = RecipeAPIClient(base_url="http://http://notexist.kc")
     result = client.search_recipe("Pizza")
     assert "Odozva:" in result
 
